@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EDE",
+    "ICI",
+    "EPE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "D": {
+      "item": "ae2:annihilation_core"
+    },
+    "I": {
+      "tag": "c:gems/diamond"
+    },
+    "C": {
+      "item": "refinedstorage:cable"
+    },
+    "P": {
+      "item": "ae2:logic_processor"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:destructor"
+  }
+}

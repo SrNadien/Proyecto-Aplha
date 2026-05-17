@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ECE",
+    "SMS",
+    "EFE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "C": {
+      "tag": "c:chests"
+    },
+    "S": {
+      "item": "refinedstorage:security_card"
+    },
+    "F": {
+      "item": "refinedstorage:fallback_security_card"
+    },
+    "M": {
+      "item": "ae2:controller"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:security_manager"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ESE",
+    "SUS",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "U": {
+      "item": "refinedstorage:upgrade"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:speed_upgrade"
+  }
+}

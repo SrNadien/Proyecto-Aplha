@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SGS",
+    "GRG",
+    "SGS"
+  ],
+  "key": {
+    "S": {
+      "item": "ae2:silicon"
+    },
+    "G": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "R": {
+      "tag": "c:dusts/redstone"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:1k_storage_part"
+  }
+}

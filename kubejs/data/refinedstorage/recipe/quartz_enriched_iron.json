@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "II",
+    "IQ"
+  ],
+  "key": {
+    "I": {
+      "item":  "minecraft:command_block"
+    },
+    "Q": {
+      "tag": "c:gems/quartz"
+    }
+  },
+  "result": {
+    "id": "ae2:certus_quartz_crystal",
+    "count": 4
+  }
+}

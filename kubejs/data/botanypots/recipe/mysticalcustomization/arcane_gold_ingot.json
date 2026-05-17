@@ -1,0 +1,1 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists","values":["mysticalagriculture:arcane_gold_ingot_crop"]},{"type":"bookshelf:item_exists","values":["mysticalagriculture:arcane_gold_ingot_seeds"]}],"type":"botanypotsmystical:mystical_crop","crop_id":"mysticalcustomization:arcane_gold_ingot"}

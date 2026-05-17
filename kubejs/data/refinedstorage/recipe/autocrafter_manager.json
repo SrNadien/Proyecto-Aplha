@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PCG",
+    "EMG",
+    "PCG"
+  ],
+  "key": {
+    "P": {
+      "item": "ae2:engineering_processor"
+    },
+    "C": {
+      "tag": "ae2:pattern_provider"
+    },
+    "G": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "E": {
+      "item": "kubejs:energized_certus_quartz_crystal"
+    },
+    "M": {
+      "item": "ae2:controller"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:autocrafter_manager"
+  }
+}

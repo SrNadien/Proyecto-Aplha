@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PAG",
+    "EMG",
+    "PAG"
+  ],
+  "key": {
+    "P": {
+      "item": "ae2:logic_processor"
+    },
+    "A": {
+      "item": "refinedstorage:pattern"
+    },
+    "G": {
+      "item": "ae2:quartz_glass"
+    },
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "M": {
+      "item": "ae2:controller"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:autocrafting_monitor"
+  }
+}

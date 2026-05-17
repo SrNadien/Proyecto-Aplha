@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "DID",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "createcasing:chorium_ingot"
+    },
+    "D": {
+      "item": "ironfurnaces:unobtainium_furnace"
+    },
+    "I": {
+      "item": "evilcraft:blood_infusion_core"
+    }
+  },
+  "result": {
+    "id": "evilcraft:blood_infuser"
+  }
+}

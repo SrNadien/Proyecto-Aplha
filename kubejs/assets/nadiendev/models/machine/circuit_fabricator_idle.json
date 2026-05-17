@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "nadiendev:block/circuit_fabricator/circuit_fabricator",
+    "north":   "nadiendev:block/circuit_fabricator/circuit_fabricator_idle",
+    "east":    "nadiendev:block/circuit_fabricator/circuit_fabricator_side",
+    "south":   "nadiendev:block/circuit_fabricator/circuit_fabricator_side",
+    "west":    "nadiendev:block/circuit_fabricator/circuit_fabricator_side",
+    "up":      "nadiendev:block/circuit_fabricator/circuit_fabricator_top",
+    "down":    "nadiendev:block/circuit_fabricator/circuit_fabricator_bottom"
+  }
+}

@@ -1,0 +1,1 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists","values":["mysticalagriculture:infinity_crop"]},{"type":"bookshelf:item_exists","values":["mysticalagriculture:infinity_seeds"]}],"type":"botanypotsmystical:mystical_crop","crop_id":"mysticalextendedtier:infinity"}

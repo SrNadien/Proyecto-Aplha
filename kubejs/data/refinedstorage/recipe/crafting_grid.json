@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:grid"
+    },
+    {
+      "item": "ae2:calculation_processor"
+    },
+    {
+      "tag": "c:player_workstations/crafting_tables"
+    }
+  ],
+  "result": {
+    "id": "refinedstorage:crafting_grid"
+  }
+}

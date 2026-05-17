@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EPE",
+    "EEE",
+    " E "
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "P": {
+      "item": "excessive_utilities:demon_ingot"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:wrench"
+  }
+}

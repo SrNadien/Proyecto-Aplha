@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ECE",
+    "RMR",
+    "EIE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "C": {
+      "item": "ae2:formation_core"
+    },
+    "R": {
+      "tag": "c:gems/diamond"
+    },
+    "M": {
+      "item": "refinedstorage:cable"
+    },
+    "I": {
+      "item": "ae2:logic_processor"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:constructor"
+  }
+}

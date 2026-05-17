@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EGE",
+    "PDE",
+    "EGE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "D": {
+      "item": "ae2:advanced_card"
+    },
+    "G": {
+      "item": "ae2:quartz_glass"
+    },
+    "P": {
+      "item": "ae2:logic_processor"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:upgrade"
+  }
+}

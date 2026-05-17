@@ -1,0 +1,1 @@
+{"bookshelf:load_conditions":[{"type":"botanypots:config","property":"can_wax_pots"}],"type":"minecraft:crafting_shapeless","category":"misc","group":"botanypots:waxed_pot","ingredients":[{"item":"minecraft:command_block"},{"item":"minecraft:command_block"}],"result":{"id":"botanypots:lime_terracotta_waxed_botany_pot","count":1}}

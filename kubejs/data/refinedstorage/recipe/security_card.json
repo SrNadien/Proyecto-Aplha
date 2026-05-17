@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "CAC",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "C": {
+      "item": "refinedstorage:network_card"
+    },
+    "A": {
+      "item": "ae2:engineering_processor"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:security_card"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "GRG",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:fluix_crystal"
+    },
+    "G": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "R": {
+      "tag": "c:dusts/redstone"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:cable",
+    "count": 12
+  }
+}

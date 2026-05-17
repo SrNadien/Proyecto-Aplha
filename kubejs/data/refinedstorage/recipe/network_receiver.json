@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ANA",
+    "CMD",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "tag": "c:ender_pearls"
+    },
+    "C": {
+      "item": "ae2:formation_core"
+    },
+    "M": {
+      "item": "ae2:controller"
+    },
+    "D": {
+      "item": "ae2:annihilation_core"
+    },
+    "A": {
+      "item": "ae2:engineering_processor"
+    },
+    "N": {
+      "tag": "c:ingots/netherite"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:network_receiver"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "kubejs:block/vivid_alloy_block"
+    }
+  }
+}

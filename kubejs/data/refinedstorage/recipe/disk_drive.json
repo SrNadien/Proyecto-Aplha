@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ECE",
+    "EME",
+    "EPE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "C": {
+      "tag": "c:chests"
+    },
+    "M": {
+      "item": "ae2:spatial_io_port"
+    },
+    "P": {
+      "item": "ae2:engineering_processor"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:disk_drive"
+  }
+}

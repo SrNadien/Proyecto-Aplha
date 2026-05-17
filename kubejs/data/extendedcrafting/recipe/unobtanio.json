@@ -1,0 +1,37 @@
+{
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GBH"
+  ],
+  "key": {
+    "A": {
+      "item": "allthemodium:allthemodium_ingot"
+    },
+    "B": {
+      "item": "allthemodium:vibranium_ingot"
+    },
+    "C": {
+      "item": "minecraft:diamond"
+    },
+    "D": {
+      "item": "extendedae:entro_ingot"
+    },
+    "E": {
+      "item": "extendedcrafting:crystaltine_ingot"
+    },
+    "F": {
+      "item": "create:andesite_alloy"
+    },
+    "G": {
+      "item": "kubejs:ingot_of_elevation"
+    },
+    "H": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "allthemodium:unobtainium_ingot"
+  }
+}

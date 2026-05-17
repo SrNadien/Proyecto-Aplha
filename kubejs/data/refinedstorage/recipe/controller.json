@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ESE",
+    "PMP",
+    "ESE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:smooth_sky_stone_block"
+    },
+    "P": {
+      "item": "ae2:engineering_processor"
+    },
+    "S": {
+      "item": "ae2:fluix_crystal"
+    },
+    "M": {
+      "item": "ae2:controller"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:controller"
+  }
+}

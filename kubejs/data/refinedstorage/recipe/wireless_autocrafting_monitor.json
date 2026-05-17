@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EPE",
+    "EME",
+    "EAE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "P": {
+      "tag": "c:ender_pearls"
+    },
+    "M": {
+      "tag": "refinedstorage:autocrafting_monitors"
+    },
+    "A": {
+      "item": "ae2:engineering_processor"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:wireless_autocrafting_monitor"
+  }
+}

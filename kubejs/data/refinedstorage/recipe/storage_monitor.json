@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PCG",
+    "EMG",
+    "PDG"
+  ],
+  "key": {
+    "P": {
+      "item": "ae2:calculation_processor"
+    },
+    "C": {
+      "item": "ae2:formation_core"
+    },
+    "G": {
+      "item": "ae2:quartz_glass"
+    },
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "M": {
+      "item": "ae2:controller"
+    },
+    "D": {
+      "item": "ae2:annihilation_core"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:storage_monitor"
+  }
+}

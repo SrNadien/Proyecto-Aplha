@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "refinedstorage:network_transmitters"
+    },
+    {
+      "item": "minecraft:command_block"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "refinedstorage:purple_network_transmitter"
+  }
+}

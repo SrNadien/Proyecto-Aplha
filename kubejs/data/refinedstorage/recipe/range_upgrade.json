@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EPE",
+    "PUP",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "P": {
+      "tag": "c:ender_pearls"
+    },
+    "U": {
+      "item": "refinedstorage:upgrade"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:range_upgrade"
+  }
+}

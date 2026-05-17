@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CED",
+    "HMH",
+    "EPE"
+  ],
+  "key": {
+    "C": {
+      "item": "ae2:formation_core"
+    },
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "D": {
+      "item": "ae2:annihilation_core"
+    },
+    "H": {
+      "tag": "c:chests"
+    },
+    "M": {
+      "item": "refinedstorage:cable"
+    },
+    "P": {
+      "item": "ae2:logic_processor"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:external_storage"
+  }
+}

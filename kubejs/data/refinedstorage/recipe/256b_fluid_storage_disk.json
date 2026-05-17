@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GRG",
+    "RPR",
+    "EEE"
+  ],
+  "key": {
+    "G": {
+      "item": "ae2:quartz_glass"
+    },
+    "R": {
+      "tag": "c:dusts/redstone"
+    },
+    "P": {
+      "item": "refinedstorage:256b_fluid_storage_part"
+    },
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:256b_fluid_storage_disk"
+  }
+}

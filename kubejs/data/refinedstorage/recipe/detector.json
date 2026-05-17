@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ERE",
+    "CMC",
+    "EPE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "R": {
+      "item": "minecraft:redstone_torch"
+    },
+    "M": {
+      "item": "ae2:controller"
+    },
+    "P": {
+      "item": "ae2:logic_processor"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:detector"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ECE",
+    "AMA",
+    "EDE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "C": {
+      "item": "ae2:annihilation_core"
+    },
+    "A": {
+      "item": "ae2:engineering_processor"
+    },
+    "M": {
+      "item": "ae2:controller"
+    },
+    "D": {
+      "item": "ae2:formation_core"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:autocrafter"
+  }
+}

@@ -1,0 +1,17 @@
+[*]
+background: custom:textures/obelisco_argentino.png
+
+text_color:          #a0f885
+hover_text_color:    #94f1fd
+disabled_text_color: #f73b3b
+
+context_background:    ftbquests:textures/background_tall.png; color=#0077c2; tile_size=0
+context_menu:          hollow_rectangle:{{widget_border}}; round_edges + {{context_background}}; padding=1
+
+icon:                 none
+wiki_icon:            ftbquests:textures/icon_clyde_white_rgb.png; color=#DDDDDD
+wiki_url:             https://github.com/srnadien
+
+full_screen_quest:                  0
+quest_view_background:              hollow_rectangle:{{widget_border}}; round_edges + ftbquests:textures/background.png; color=#009cff; padding=1
+quest_view_border:                  {{widget_border}}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SGS",
+    "GRG",
+    "SGS"
+  ],
+  "key": {
+    "S": {
+      "item": "ae2:silicon"
+    },
+    "G": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "R": {
+      "tag": "c:buckets/empty"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:64b_fluid_storage_part"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GBH"
+  ],
+  "key": {
+    "A": {
+      "item": "alltheores:iridium_ingot"
+    },
+    "B": {
+      "item": "alltheores:iridium_ingot"
+    },
+    "C": {
+      "item": "allthemodium:allthemodium_ingot"
+    },
+    "D": {
+      "item": "kubejs:osmiridiumingot"
+    },
+    "E": {
+      "item": "extendedcrafting:crystaltine_ingot"
+    },
+    "F": {
+      "item": "kubejs:osgloglasingot"
+    },
+    "G": {
+      "item": "extendedae:entro_ingot"
+    },
+    "H": {
+      "item": "enderio:pulsating_alloy_ingot"
+    }
+  },
+  "result": {
+    "id": "allthemodium:vibranium_ingot"
+  }
+}

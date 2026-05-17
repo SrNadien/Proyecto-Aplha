@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "ESE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "S": {
+      "tag": "c:stones"
+    }
+  },
+  "result": {
+    "id": "ae2:controller"
+  }
+}

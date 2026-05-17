@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "UIU",
+    "RMR",
+    "UEU"
+  ],
+  "key": {
+    "I": {
+      "item": "refinedstorage:importer"
+    },
+    "E": {
+      "item": "refinedstorage:exporter"
+    },
+    "M": {
+      "item": "ae2:controller"
+    },
+    "R": {
+      "tag": "c:dusts/redstone"
+    },
+    "U": {
+      "item": "ae2:certus_quartz_crystal"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:interface"
+  }
+}

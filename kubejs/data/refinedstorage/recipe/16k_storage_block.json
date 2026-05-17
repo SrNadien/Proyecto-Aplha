@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EPE",
+    "EME",
+    "ERE"
+  ],
+  "key": {
+    "M": {
+      "item": "ae2:controller"
+    },
+    "R": {
+      "tag": "c:dusts/redstone"
+    },
+    "P": {
+      "item": "refinedstorage:16k_storage_part"
+    },
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:16k_storage_block"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ae2:printed_silicon"
+    },
+    {
+      "item":  "ae2:charged_certus_quartz_crystal"
+    },
+    {
+      "item": "ae2:silicon"
+    },
+    {
+      "tag": "c:dusts/redstone"
+    }
+  ],
+  "result": {
+    "id": "refinedstorage:raw_improved_processor"
+  }
+}

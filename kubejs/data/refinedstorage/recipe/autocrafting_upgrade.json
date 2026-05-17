@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EOE",
+    "CUC",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "C": {
+      "item": "minecraft:crating_table"
+    },
+    "O": {
+      "item": "ae2:annihilation_core"
+    },
+    "U": {
+      "item": "refinedstorage:upgrade"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:autocrafting_upgrade"
+  }
+}

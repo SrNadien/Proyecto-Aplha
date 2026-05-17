@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "SLS",
+    "   "
+  ],
+  "key": {
+    "S": {
+      "tag": "c:strings"
+    },
+    "L": {
+      "item": "industrialforegoing:pink_slime"
+    }
+  },
+  "result": {
+    "id": "ae2:printed_silicon",
+    "count": 8
+  }
+}

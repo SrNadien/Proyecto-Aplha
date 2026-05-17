@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    " G ",
+    " D "
+  ],
+  "key": {
+    "S": {
+      "item": "evilcraft:dark_spike"
+    },
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "D": {
+      "item": "kubejs:hardened_blood_droplet"
+    }
+  },
+  "result": {
+    "id": "evilcraft:blood_extractor"
+  }
+}

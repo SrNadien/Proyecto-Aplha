@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ESE",
+    "CMD",
+    "ESE"
+  ],
+  "key": {
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "S": {
+      "item": "refinedstorage:storage_housing"
+    },
+    "C": {
+      "item": "ae2:formation_core"
+    },
+    "M": {
+      "item": "ae2:drive"
+    },
+    "D": {
+      "item": "ae2:annihilation_core"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:disk_interface"
+  }
+}

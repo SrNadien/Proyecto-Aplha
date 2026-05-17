@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ae2:logic_processor"
+    },
+    {
+      "item": "ae2:certus_quartz_crystal"
+    }
+  ],
+  "result": {
+    "id": "ae2:formation_core"
+  }
+}

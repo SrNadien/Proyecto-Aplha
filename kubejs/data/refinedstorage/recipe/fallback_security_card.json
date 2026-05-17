@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:security_card"
+    },
+    {
+      "item": "mekanism:security_desk"
+    }
+  ],
+  "result": {
+    "id": "refinedstorage:fallback_security_card"
+  }
+}

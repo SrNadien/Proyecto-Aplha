@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SDS",
+    "DTD",
+    " T "
+  ],
+  "key": {
+    "S": {
+      "item": "kubejs:hardened_blood_droplet"
+    },
+    "D": {
+      "item": "mekanism:atomic_disassembler"
+    },
+    "T": {
+      "item": "evilcraft:dark_stick"
+    }
+  },
+  "result": {
+    "id": "evilcraft:vengeance_pickaxe",
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:fortune": 10
+        },
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

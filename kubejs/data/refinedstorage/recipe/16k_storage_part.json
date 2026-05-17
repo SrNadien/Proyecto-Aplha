@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PEP",
+    "SRS",
+    "PSP"
+  ],
+  "key": {
+    "P": {
+      "item": "ae2:logic_processor"
+    },
+    "E": {
+      "item": "ae2:certus_quartz_crystal"
+    },
+    "S": {
+      "item": "refinedstorage:4k_storage_part"
+    },
+    "R": {
+      "tag": "c:dusts/redstone"
+    }
+  },
+  "result": {
+    "id": "refinedstorage:16k_storage_part"
+  }
+}
